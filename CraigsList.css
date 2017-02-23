@@ -19,10 +19,12 @@ p {
 .main-image {
 	position: relative;
 	float: left;
+	padding-right: 30px;
 }
 
 .main-list{
 	position: relative;
+	float: left;
 }
 
 .container {
@@ -35,4 +37,6 @@ p {
 	font-family: "sans-serif";
 }
 
-css
+.paragraph {
+	float: clear;
+}
