@@ -1,0 +1,38 @@
+p {
+		line-height:normal;
+	}
+	
+	th, td {
+    	font: san-serif;
+		border: 1px solid #CAC3C3;
+		background: #FCFCFC;
+}
+	h3, h5 {
+		display: inline;
+	}
+
+.header {
+	padding-bottom: 15px;
+}
+
+
+.main-image {
+	position: relative;
+	float: left;
+}
+
+.main-list{
+	position: relative;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+}
+
+#contact {
+	font: 12px;
+	font-family: "sans-serif";
+}
+
+css
